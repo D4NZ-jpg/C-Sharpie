@@ -1,0 +1,14 @@
+fn Salute(name)
+{
+    print("Hello " + name)
+}
+
+fn Main()
+{
+    int y = 5
+    int a = 6*10+y
+    print(a)
+    Salute("World!")
+
+    int _coolVariable69 = 69
+}
